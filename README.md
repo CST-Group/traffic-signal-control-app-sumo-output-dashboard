@@ -1,5 +1,5 @@
 # traffic-signal-control-app-sumo-output-dashboard
-A dashboard to measure SUMO's output mean travel time of all vehicles in the CST Machine Consciousness Traffic Signal Controll App
+A dashboard to measure SUMO's output mean travel time of all vehicles in the CST Machine Consciousness Traffic Signal Control App
 
 
 License
