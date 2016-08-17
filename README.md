@@ -10,6 +10,8 @@ For instance, if the path is '/home/sumo/output.xml':
  
     $ ./SumoOutputDashboard /home/sumo/output.xml
 
+![Dashboard](/dashboard.png)
+
 ## License
 
     Copyright 2016 CST-Group
