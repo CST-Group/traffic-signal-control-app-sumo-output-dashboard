@@ -1,9 +1,16 @@
 # traffic-signal-control-app-sumo-output-dashboard
+
 A dashboard to measure SUMO's output mean travel time of all vehicles in the CST Machine Consciousness Traffic Signal Control App
 
+## Usage
 
-License
---------
+You should run the main SumoOutputDashboard program passing the path of the sumo output file as a parameter. The program will do all the rest, including automatically calculating the axis scale.
+
+For instance, if the path is '/home/sumo/output.xml':
+ 
+    $ ./SumoOutputDashboard /home/sumo/output.xml
+
+## License
 
     Copyright 2016 CST-Group
 
